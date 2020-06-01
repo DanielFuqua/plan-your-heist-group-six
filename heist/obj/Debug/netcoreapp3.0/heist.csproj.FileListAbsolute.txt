@@ -1,0 +1,12 @@
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/bin/Debug/netcoreapp3.0/heist.deps.json
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/bin/Debug/netcoreapp3.0/heist.runtimeconfig.json
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/bin/Debug/netcoreapp3.0/heist.runtimeconfig.dev.json
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/bin/Debug/netcoreapp3.0/heist.dll
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/bin/Debug/netcoreapp3.0/heist.pdb
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.csprojAssemblyReference.cache
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.AssemblyInfoInputs.cache
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.AssemblyInfo.cs
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.csproj.CoreCompileInputs.cache
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.dll
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.pdb
+/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/obj/Debug/netcoreapp3.0/heist.genruntimeconfig.cache

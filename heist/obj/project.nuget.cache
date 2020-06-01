@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfQXi/rCYFc+p3OIhNWx+/XKZWO9z6N10oYkJqQCcxrgFwG3zffGOIYb78edXWK92RsxtUqjwHJGY3eeVW3vYQ==",
+  "success": true,
+  "projectFilePath": "/Users/danielfuqua/workspace/csharp-exercises/plan-your-heist-group-six/heist/heist.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielfuqua/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/Users/danielfuqua/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
