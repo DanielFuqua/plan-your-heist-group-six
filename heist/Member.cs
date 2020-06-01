@@ -12,6 +12,8 @@ namespace heist
         public double Courage { get; set; }
 
 
+
+
     }
 
 

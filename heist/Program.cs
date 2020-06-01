@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace heist
 {
@@ -30,11 +32,18 @@ namespace heist
             {
                 Name = userName,
                 Skill = userSkill,
-                Courage = userCourage
+                Courage = userCourage,
+
             };
 
             Console.WriteLine($"Name: {newMember.Name} Skill: {newMember.Skill} Courage :{newMember.Courage}");
 
+            Team heistTeam = new Team();
+            heistTeam.AddToList(newMember);
+            Console.WriteLine(heistTeam);
+            heistTeam.DisplayMembers();
+
+
         }
-    }
-}
+    };
+};
