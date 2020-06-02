@@ -1,0 +1,13 @@
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\bin\Debug\netcoreapp3.1\heist.exe
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\bin\Debug\netcoreapp3.1\heist.deps.json
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\bin\Debug\netcoreapp3.1\heist.runtimeconfig.json
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\bin\Debug\netcoreapp3.1\heist.runtimeconfig.dev.json
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\bin\Debug\netcoreapp3.1\heist.dll
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\bin\Debug\netcoreapp3.1\heist.pdb
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.csprojAssemblyReference.cache
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.AssemblyInfoInputs.cache
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.AssemblyInfo.cs
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.dll
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.pdb
+C:\Users\Daniel Fuqua\workspace\csharp-exercises\plan-your-heist-group-six\heist\obj\Debug\netcoreapp3.1\heist.genruntimeconfig.cache
