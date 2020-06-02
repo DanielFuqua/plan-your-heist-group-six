@@ -20,5 +20,17 @@ namespace heist
             }
 
         }
+
+        public int NumberOfMembers()
+        {
+          return _members.Count;
+        }
+        
+        public int TotalSkillLevel()
+        {
+            int SkillLevel = 0;
+            _members.ForEach(teamMember => SkillLevel += teamMember.Skill);
+            return SkillLevel;
+        }
     }
 }

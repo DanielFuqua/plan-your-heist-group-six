@@ -11,7 +11,10 @@ namespace heist
 
         public double Courage { get; set; }
 
-
+        public override string ToString()
+        {
+             return $"Name: {Name}, Skill: {Skill}, Courage: {Courage}";
+        }
 
 
     }
